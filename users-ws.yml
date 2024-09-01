@@ -1,0 +1,9 @@
+login:
+  url:
+    path: /api/users/login
+ 
+spring:
+  datasource:
+    username: root
+    password: '{cipher}AQBPKauL1pxoOIC6nKzvejgjpy1NgTQfPQdphpKZH4wXl8nc1wNSFfIgZn1ksqZHcPc5TQMUq7aHPwZFevoLgY94SYcVBezVgsuHr7ENJRlsQ0gD3qHAr0ej4cewGLlberfAhsOwG8B6CcjSaXOeALXMIcrvvOOx2GmEp/4IvaqXmDCz76L40ce76aOYyOZh2cOIffo8sS7WhfD7vn3cB6Mlrvm/NdhpfDpPkkiXIfLPWbC6i3SXN+NmOBSRIsE5xnT6UYploWuBpoDJhIuS9ySN4rlTZFPIOZ4cF9hC0uLd0gSnbTS2DqHHR28Ga7OQAKM/CkU7o9r2qfoQu8Zg4MnS1AKw/9xf5pXw8lKoJLcyeTgBlOAuJS53lov0FvFAorY='
+    url: jdbc:mysql://localhost:3306/securitydb?allowPublicKeyRetrieval=true&useSSL=false&useUnicode=true&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC
