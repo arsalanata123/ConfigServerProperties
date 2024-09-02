@@ -10,7 +10,7 @@ login:
     path: /api/users/login
     
 userShops:
-  url: http://localhost:8088/products-ws/api/shops/userId/%s
+  url: http://localhost:8088/productservice/api/shops/userId/%s
       
 shop:
   exception:
