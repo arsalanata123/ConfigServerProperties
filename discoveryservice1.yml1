@@ -1,5 +1,0 @@
-spring:
-  security:
-    user:
-      name: admin
-      password: ${cipher}AQAhYYy7JMNgab4TQ9EAV3grg3gc78Wfr7Ov5AxFwre9IPXU3APH2gVgqvLx2p1ptEQ4uOM70yGU8xGw6MkMuDEG+y0fB29p18i1AwSb7TQq0ifYS5NZtc7hpL5hJGjhlWTEjEItylV8noXX2t7U29GkoYKxkUyY/15c+U9GkHRYASz7ADmt8YnJ/VLTgCk49zhU1qtMB21mrNn6XWsrqvChRUTXJZ5N/+Aj2fF7ZELXfvUTgzacXr8eOIfqJW1RASc8SPSLIU/MTq3/DI5C0/yJ7QnxjSOys21AYtpKUdjksw1r9uvn0GgRj3yVrkUKoLNs7W9snMSgoieTv4GFWPVQr2kg2SahFRbX4O3CcJxGutnbFHWXZJhcWCHY9omr4iY=
