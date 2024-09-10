@@ -1,0 +1,25 @@
+#gateway:
+#  ip: 192.168.1.95
+  #ip: 192.168.1.41
+token:
+  expiration_time: 864000
+  secret: 234234kjljkkhjhk24234JKHKHKJKJH4343skdlfjlsakfdj32o92uo342349ljflskdfjlsdjkfcccc
+  #secret: {cipher}AQBPKauL1pxoOIC6nKzvejgjpy1NgTQfPQdphpKZH4wXl8nc1wNSFfIgZn1ksqZHcPc5TQMUq7aHPwZFevoLgY94SYcVBezVgsuHr7ENJRlsQ0gD3qHAr0ej4cewGLlberfAhsOwG8B6CcjSaXOeALXMIcrvvOOx2GmEp/4IvaqXmDCz76L40ce76aOYyOZh2cOIffo8sS7WhfD7vn3cB6Mlrvm/NdhpfDpPkkiXIfLPWbC6i3SXN+NmOBSRIsE5xnT6UYploWuBpoDJhIuS9ySN4rlTZFPIOZ4cF9hC0uLd0gSnbTS2DqHHR28Ga7OQAKM/CkU7o9r2qfoQu8Zg4MnS1AKw/9xf5pXw8lKoJLcyeTgBlOAuJS53lov0FvFAorY=
+#login:
+#  url:
+#    path: /api/users/login
+    
+#userShops:
+#  url: http://localhost:8088/productservice/api/shops/userId/%s
+      
+#shop:
+#  exception:
+#    status-not-found: Shops isn't found.
+#myEurekaPassword: ${cipher}AQAhYYy7JMNgab4TQ9EAV3grg3gc78Wfr7Ov5AxFwre9IPXU3APH2gVgqvLx2p1ptEQ4uOM70yGU8xGw6MkMuDEG+y0fB29p18i1AwSb7TQq0ifYS5NZtc7hpL5hJGjhlWTEjEItylV8noXX2t7U29GkoYKxkUyY/15c+U9GkHRYASz7ADmt8YnJ/VLTgCk49zhU1qtMB21mrNn6XWsrqvChRUTXJZ5N/+Aj2fF7ZELXfvUTgzacXr8eOIfqJW1RASc8SPSLIU/MTq3/DI5C0/yJ7QnxjSOys21AYtpKUdjksw1r9uvn0GgRj3yVrkUKoLNs7W9snMSgoieTv4GFWPVQr2kg2SahFRbX4O3CcJxGutnbFHWXZJhcWCHY9omr4iY=    
+#eureka:
+#  client:
+#    serviceUrl:
+#      defaultZone: http://localhost:8760/eureka
+#      #defaultZone: http://admin:${myEurekaPassword}@localhost:8760/eureka
+      
+      
