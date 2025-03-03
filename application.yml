@@ -11,7 +11,8 @@ token:
     
 userShops:
   url: http://localhost:8088/productservice/api/shops/userId/%s
-      
+productservices:
+  url: http://localhost:9091/api/products
 #shop:
 #  exception:
 #    status-not-found: Shops isn't found.
